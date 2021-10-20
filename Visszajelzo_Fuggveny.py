@@ -1,4 +1,4 @@
-# Visszajelző függvény Mastermind/Színözön játékhoz, ami a tippek megadasaval kiszámolja a találataidat
+# Visszajelző függvény Mastermind/Színözön játékhoz, ami a tippek megadásával kiszámolja a találataidat
 
 # Színek amiket használhatunk:
 lehetosegek = ['sarga', 'zold', 'kek', 'piros', 'feher', 'fekete']
